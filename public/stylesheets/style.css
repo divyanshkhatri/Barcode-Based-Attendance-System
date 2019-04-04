@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 1000px;
+  display: flex;
+  /* justify-content: center; */
+}
+
+.content {
+  margin-right: 30px;
+}
+
+.scanner-cam {
+  border: 5px solid red;
+  width: 640px;
+  height: 480px;
+}
+
+.scanner-cam--scanned {
+  border-color: green;
+}

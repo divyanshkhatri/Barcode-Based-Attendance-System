@@ -1,0 +1,33 @@
+{
+  "name": "se",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "barc": "0.0.4",
+    "barcode": "^0.1.0",
+    "bwip-js": "^1.7.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "gm": "^1.23.1",
+    "http-errors": "~1.6.2",
+    "imagemagick": "^0.1.3",
+    "jimp": "^0.6.0",
+    "jsbarcode": "^3.11.0",
+    "morgan": "~1.9.0",
+    "nan": "^2.12.1",
+    "ngrok": "^3.1.1",
+    "node-pre-gyp": "^0.12.0",
+    "pngjs": "^3.4.0",
+    "quagga": "^0.12.1",
+    "react": "^16.8.4",
+    "rimg": "^0.1.0",
+    "rimp": "^0.1.7",
+    "s": "^0.1.1",
+    "xhr2": "^0.1.4"
+  }
+}
